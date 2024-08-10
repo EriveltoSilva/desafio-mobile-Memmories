@@ -29,6 +29,7 @@ Desenvolver a interface mobile do aplicativo **"Memmories"**, um sistema que per
    - Otimizar o desempenho da aplicação, assegurando que a experiência do usuário seja rápida e sem interrupções.
 
 <h2>🔗 Critérios de Avaliação:</h2>
+
 - **Proficiência em React Native:** Capacidade de construir componentes robustos e reutilizáveis, e de aplicar estilos responsivos para diferentes dispositivos móveis.
 - **Design de UI/UX:** Habilidade em criar uma interface intuitiva e agradável, focada na experiência do usuário.
 - **Preparação para Integração com APIs:** Capacidade de preparar a aplicação para uma integração eficiente com a API Backend, incluindo gestão de estados e fluxos de dados.
@@ -36,6 +37,7 @@ Desenvolver a interface mobile do aplicativo **"Memmories"**, um sistema que per
 - **Organização e Documentação do Código:** Qualidade do código, uso de boas práticas de programação e documentação clara.
 
 <h2>Tecnologias Recomendadas:</h2>
+
 - React Native
 - TypeScript
 - Redux ou Context API ou qualquer outra lib para gestão de estado a sua escolha
@@ -43,4 +45,5 @@ Desenvolver a interface mobile do aplicativo **"Memmories"**, um sistema que per
 - Bibliotecas de UI/UX - Livre
 
 <h2>Conclusão:</h2>
+
 O desafio mobile frontend para o aplicativo "Memmories" oferece uma excelente oportunidade para demonstrar habilidades no desenvolvimento de interfaces móveis com React Native, com ênfase em design de UI/UX, integração com APIs e criação de experiências de usuário envolventes e seguras.
